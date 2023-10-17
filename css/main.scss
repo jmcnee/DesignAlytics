@@ -71,6 +71,10 @@ aside {
             a {
                 color: white;
                 font-size: 2.6rem;
+
+                &:hover {
+                    text-decoration: underline;
+                }
             }
         }
     }
